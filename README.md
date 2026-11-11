@@ -1,2 +1,2 @@
-# Active-Learning-via-Contextual-Similarity-and-Bayesian-Optimization-for-Offensive-Language-Detection
-This repository contains a sample of the code used for active learning based contextual similarity. It includes only SGD classifier with the link of all datasets used for reproducing the results reported in the original paper. The whole code will be available soon.
+# The act of being active in the embedding space: A complementary view of active learning based on contextualized representations for offensive language detection 
+This repository contains a sample of the code used for the complementary active learning based on contextualized representations for offensive language detection. It includes only SGD classifier with the link of all datasets used for reproducing the results reported in the original paper. The whole code will be available soon.
